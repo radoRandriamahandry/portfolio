@@ -39,7 +39,7 @@
         </p>
         <button
           class="
-            mt-6
+            mt-5
             px-3
             py-1
             rounded-full
