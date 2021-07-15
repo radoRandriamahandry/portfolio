@@ -1,6 +1,6 @@
 <template>
-  <section class="max-w-screen-lg mx-auto">
-    <h2 class="text-xl font-semibold">Portfolio</h2>
+  <section class="max-w-screen-lg mx-auto mt-10">
+    <h2 class="text-2xl font-bold">Projects</h2>
     <!-- TODO: portfolio wiht image, description, stack used and link to the project -->
     <PortfolioItem :reverse-direction="false" />
     <PortfolioItem :reverse-direction="true" />

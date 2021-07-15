@@ -7,26 +7,22 @@
     <div class="flex-1">
       <div class="p-11">
         <p class="text-6xl font-bold text-gray-300">01.</p>
-        <h3 class="mt-4 font-bold text-gray-600 text-2xl">
+        <h3 class="mt-4 text-2xl font-bold text-gray-600">
           Lorem ipsum dolor sit.
         </h3>
-        <ul class="flex gap-3 text-sm mt-2">
+        <ul class="flex gap-3 mt-2 text-sm">
           <li
-            class="
-              border border-green-400
-              font-semibold
-              text-green-400
-              rounded-full
-              px-2
-            "
+            class="px-2 tracking-widest text-green-500 bg-green-100 rounded-full "
           >
             Vue3
           </li>
-          <li class="border border-blue-400 text-blue-400 rounded-full px-2">
+          <li
+            class="px-2 tracking-widest text-blue-500 bg-blue-100 rounded-full"
+          >
             TailwindCSS
           </li>
           <li
-            class="border border-purple-400 text-purple-400 rounded-full px-2"
+            class="px-2 tracking-widest text-purple-500 bg-purple-100 rounded-full "
           >
             Vite
           </li>
@@ -48,6 +44,7 @@
             uppercase
             text-gray-400
             border-[3px] border-gray-400
+            align-text-top
           "
         >
           view project
@@ -55,14 +52,7 @@
       </div>
     </div>
     <div
-      class="
-        bg-blue-300
-        grid
-        place-content-center
-        font-bold
-        text-white text-xl
-        flex-1
-      "
+      class="grid flex-1 text-xl font-bold text-white bg-blue-300  place-content-center"
     >
       IMAGE
     </div>
